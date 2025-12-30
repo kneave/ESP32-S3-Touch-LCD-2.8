@@ -1,5 +1,4 @@
 # ESP32-S3 Touch LCD 2.8" - Complete Development Platform
-# ESP32-S3 Touch LCD 2.8" - Complete Development Platform
 
 Original German README: [README_DE.md](README_DE.md)
 
